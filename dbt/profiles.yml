@@ -1,0 +1,14 @@
+sales_dbt:
+  outputs:
+    dev:
+      type: snowflake
+      account: ziuamui-fk16656
+      user: dbt_user               # <-- use the exact new username
+      password: Lasya@1424  # <-- paste your correct password here
+      role: ACCOUNTADMIN
+      database: SALES_DB
+      warehouse: COMPUTE_WH
+      schema: PUBLIC
+      threads: 1
+      authenticator: snowflake     # <-- use this for password auth
+  target: dev

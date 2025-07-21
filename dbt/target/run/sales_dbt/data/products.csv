@@ -1,0 +1,12 @@
+
+    
+    
+    truncate table "SALES_DB"."PUBLIC"."PRODUCTS";
+    -- dbt seed --
+    
+            insert into SALES_DB.PUBLIC.products (product_id, category, price) values
+            (%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s)
+        
+
+;
+  

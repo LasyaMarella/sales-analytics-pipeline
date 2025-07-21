@@ -1,0 +1,6 @@
+apache-airflow==2.7.2
+snowflake-connector-python
+snowflake-sqlalchemy
+dbt-core
+dbt-snowflake
+pandas
