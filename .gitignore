@@ -1,0 +1,19 @@
+# Ignore Airflow configs and logs
+Airflow/config/
+Airflow/logs/
+Airflow/docker-compose.yaml
+Airflow/Dockerfile
+
+# Ignore dbt logs and targets
+dbt/logs/
+dbt/target/
+dbt/.dbt/
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore OS and editor files
+.DS_Store
+.vscode/
