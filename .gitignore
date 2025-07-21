@@ -1,3 +1,4 @@
+# Add git ignore rules
 # Ignore Airflow configs and logs
 Airflow/config/
 Airflow/logs/
