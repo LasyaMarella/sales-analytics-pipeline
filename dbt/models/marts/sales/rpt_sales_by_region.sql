@@ -1,3 +1,5 @@
+-- DBT Model for sales per region
+
 select
   region,
   sum(total_amount) as total_sales,
