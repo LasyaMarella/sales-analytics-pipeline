@@ -77,3 +77,14 @@
 {"timestamp":"2025-07-21T16:50:31.091850","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-21T16:51:02.298112","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-21T16:51:33.928367","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-21T16:52:05.967324","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-21T16:52:37.920517","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-21T16:53:09.544832","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-21T16:53:42.061600","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-21T16:54:13.230053","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-21T16:54:45.522919","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-21T16:55:17.119340","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-21T16:55:48.972751","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-21T16:56:20.844195","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-21T16:56:52.174604","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-21T16:57:23.828461","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Lasya_Project_1_DAG.py","logger":"airflow.models.dagbag.DagBag"}
