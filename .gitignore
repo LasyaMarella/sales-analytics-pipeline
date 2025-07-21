@@ -1,10 +1,11 @@
+## Files and extension that must be ignore by git
 # Ignore Airflow configs and logs
 Airflow/config/
 Airflow/logs/
 Airflow/docker-compose.yaml
 Airflow/Dockerfile
 
-# Ignore dbt logs and targets
+# Ignore dbt logs and targets 
 dbt/logs/
 dbt/target/
 dbt/.dbt/
