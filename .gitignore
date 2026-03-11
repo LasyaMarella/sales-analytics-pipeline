@@ -1,0 +1,25 @@
+# Add git ignore rules
+# Ignore Airflow configs, logs, and local env
+Airflow/config/
+Airflow/logs/
+Airflow/docker-compose.yaml
+Airflow/Dockerfile
+Airflow/.env
+
+# Ignore local environment files (credentials, machine-specific)
+.env
+dbt/.env
+
+# Ignore dbt logs and targets 
+dbt/logs/
+dbt/target/
+dbt/.dbt/
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore OS and editor files
+.DS_Store
+.vscode/
