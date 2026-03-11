@@ -2,7 +2,6 @@
 # Ignore Airflow configs, logs, and local env
 Airflow/config/
 Airflow/logs/
-Airflow/docker-compose.yaml
 Airflow/Dockerfile
 Airflow/.env
 
